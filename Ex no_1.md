@@ -20,6 +20,7 @@ RegisterNumber:
 ```
 
 ## Output:
+<img width="428" height="160" alt="Screenshot 2026-03-18 211455" src="https://github.com/user-attachments/assets/5c7c82cd-0524-46a1-88bd-788949752742" />
 
 
 
